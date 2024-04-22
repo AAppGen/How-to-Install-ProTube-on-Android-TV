@@ -33,3 +33,41 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](protube.app)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/protube_app)  
 
+
+
+### Hi there 👋, How to Install ProTube on FireStick ?
+#### To install ProTube on FireStick, follow these steps:
+![To install ProTube on FireStick, follow these steps:](https://www.airbeam.tv/wp-content/uploads/2023/07/kodi-tv-firestick.jpg)
+
+To install ProTube on FireStick, follow these steps:
+
+Enable Apps from Unknown Sources:
+Go to the settings menu on your FireStick.
+Select "My Fire TV" or "Device" (depending on your FireStick version).
+Choose "Developer Options."
+Turn on "Apps from Unknown Sources" to allow installation of apps from sources other than the Amazon Appstore.
+Install Downloader App:
+From the FireStick home screen, navigate to the search bar.
+Search for "Downloader" and select it from the search results.
+Click on the Downloader app icon, then select "Download" to install it on your FireStick.
+Download ProTube APK:
+Launch the Downloader app on your FireStick.
+In the Downloader app, enter the URL of the ProTube APK file. You can find this on the official ProTube website or from a trusted source.
+Once the download is complete, the Downloader app will prompt you to install the APK. Select "Install" to proceed.
+Launch ProTube:
+After installation is complete, you can find ProTube in the "Your Apps & Channels" section of your FireStick home screen.
+Launch ProTube and follow any on-screen instructions to sign in to your YouTube account or start browsing ad-free content.
+That's it! You've successfully installed ProTube on your FireStick. Enjoy your ad-free YouTube experience.
+
+
+
+
+
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](protube.app)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/protube_app)  
+
